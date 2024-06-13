@@ -7,6 +7,6 @@ metadata:
 spec:
     containers:
         - name: webserver
-          image: nginx
+          image: image_tag
           ports:
             - containerPort: 80
